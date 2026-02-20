@@ -11,7 +11,8 @@ favorites, writing reviews, etc.
 ---
 
 ## ⚠ Attention
-Project currently is being updated. Newer versions (if exist) are located in "***develop***" branch of the repositories listed below.\
+Project currently is being updated.\
+Newer versions (if exist) are located in "***develop***" branch of the repositories listed below.\
 \
 Expected changes:
 
@@ -31,7 +32,7 @@ Expected changes:
 | ⚙️ **Docker-compose** | Docker Compose + deployment setup | [docker-compose](https://github.com/novikat/docker-compose.git) |
 | 📚 **Library Service** | Spring-based microservice, connects to Postgres DB that stores data about books, authors, and users | [library-service](https://github.com/novikat/library-service.git) |
 | 🗂️ **File-Loader Service** | Spring-based reactive microservice, connects to MongoDB that stores book files | [file-loader](https://github.com/novikat/file-loader.git) |
-| 🌐 **Gateway** | Manages routing and security configurations | [gateway](placeholder) |
+| 🌐 **Gateway** | Manages routing and security configurations | [gateway](https://github.com/novikat/gateway.git) |
 | 🔍 **Eureka Server** | Service discovery | [eureka-server](https://github.com/novikat/eureka-server.git) |
 ---
 
